@@ -1,0 +1,56 @@
+<resources>
+    <string name="app_name">Plato</string>
+    <string name="sign_in">Sign In</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="don_t_have_an_account_create_now">Don\'t have an account? Create now</string>
+    <string name="password">Password</string>
+    <string name="username">Username</string>
+    <string name="enter_username">Enter Username</string>
+    <string name="enter_password">Enter Password</string>
+    <string name="at_least_five_characters">*at least five characters</string>
+    <string name="username_is_required">username is required</string>
+    <string name="title_activity_home">HomeActivity</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="chat">Chat</string>
+    <string name="game">Game</string>
+    <string name="friends">Friends</string>
+    <string name="shop">Shop</string>
+
+
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="invites">invites</string>
+    <string name="friend_requests">Friend Requests</string>
+    <string name="elham">elham</string>
+    <string name="enter_message">Enter message...</string>
+    <string name="enter_your_message">Enter your message...</string>
+    <string name="send">send</string>
+    <string name="friendstxt">friends</string>
+    <string name="bio">اینم از رییس عادلمون...</string>
+    <string name="level_1">level:1</string>
+    <string name="chess">chess</string>
+    <string name="played_0_won_0">played:0 won:0</string>
+    <string name="leveltxt">level1</string>
+    <string name="numWonstxt">played:0   wins:0</string>
+    <string name="gamentxt">chess</string>
+    <string name="game_image">game image</string>
+    <string name="usernamefromhome">USERNAME</string>
+    <string name="edit" />
+    <string name="title_activity_add_friend">AddFriendActivity</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+    <string name="title_activity_start_game">StartGameActivity</string>
+    <string name="tab_text_1">CASUAL</string>
+    <string name="tab_text_2">RANKED</string>
+    <string name="tab_text_3">LEADERBOARD</string>
+    <string name="title_activity_loading_screen">loadingScreen</string>
+    <string name="title_activity_guess_the_word">GuessTheWord</string>
+
+</resources>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/nav_casual"
+        android:title="CASUAL"/>
+    <item
+        android:id="@+id/nav_ranked"
+        android:title="RANKED"/>
+
+    <item
+        android:id="@+id/nav_leaderboard"
+        android:title="LEADERBOARD"/>
+
+</menu>
